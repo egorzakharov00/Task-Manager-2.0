@@ -2,7 +2,7 @@
 
 ###### The project
 
-This project is a simple program built for a small business to help manage tasks. This is an updated version of Capstone-1-3 and uses functions to operate more efficiently.
+This project is a simple program built for a small business to help manage tasks. This is an updated version of Task-Manager-Files and makes use of lists, functions and string handling to operate more efficiently.
 
 ###### Usefulness
 
